@@ -1,3 +1,5 @@
+My contribution is the python files in upper most directory except for parts of the laikago.py
+
 Simulation code from this project is taken from:
 
 @MISC{coumans2021,
@@ -8,7 +10,6 @@ year = {2016--2021}
 }
 
 
-My contribution is the python files in upper most directory except for parts of the laikago.py
 
 
 Please rl-test-3.py to run training experiment
